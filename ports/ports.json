@@ -1,0 +1,15 @@
+{
+  "name": "WaterSort",
+  "items": ["WaterSort.sh", "WaterSort/"],
+  "attr": {
+    "title": "Water Sort Deluxe",
+    "desc": "Sort coloured liquids into matching tubes. Satisfying puzzle game with smooth animations.",
+    "inst": "Copy WaterSort.zip to /roms/ports and extract.",
+    "genres": ["puzzle"],
+    "porter": "YourGitHubHandle",
+    "image": { "screenshot": "screenshot.png" },
+    "arch": ["aarch64"],
+    "rtr": true,
+    "runtime": null
+  }
+}
